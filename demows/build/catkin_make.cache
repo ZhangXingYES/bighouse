@@ -1,0 +1,2 @@
+demo_server:demo_topic
+-DCATKIN_DEVEL_PREFIX=/home/zx/demows/devel -DCMAKE_INSTALL_PREFIX=/home/zx/demows/install -G Unix Makefiles
