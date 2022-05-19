@@ -1,0 +1,5 @@
+string name
+string banji
+uint32 id
+---
+string result

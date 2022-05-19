@@ -1,0 +1,2 @@
+learning_launch:learning_parameter:learning_service:learning_tf:learning_topic:mrobot_description
+-DCATKIN_DEVEL_PREFIX=/home/zx/catkin_zx/devel -DCMAKE_INSTALL_PREFIX=/home/zx/catkin_zx/install -G Unix Makefiles

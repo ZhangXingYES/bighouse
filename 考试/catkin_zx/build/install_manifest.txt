@@ -1,0 +1,9 @@
+/home/zx/catkin_zx/install/_setup_util.py
+/home/zx/catkin_zx/install/env.sh
+/home/zx/catkin_zx/install/setup.bash
+/home/zx/catkin_zx/install/local_setup.bash
+/home/zx/catkin_zx/install/setup.sh
+/home/zx/catkin_zx/install/local_setup.sh
+/home/zx/catkin_zx/install/setup.zsh
+/home/zx/catkin_zx/install/local_setup.zsh
+/home/zx/catkin_zx/install/.rosinstall
